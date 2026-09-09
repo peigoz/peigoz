@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I go by Zack (@peigoz) — based in Shenzhen, China</h1>
+# Hi 👋, I go by Zack (@peigoz) — based in Shenzhen, China</h1>
   
 ### 📅 Hobbies
 
@@ -7,7 +7,7 @@
 - 🎮 Casual gaming — currently hooked on my Switch
 - 🎧 Coding with lo-fi beats on repeat
   
-### 👨 ​Current Focus
+### 💻 ​Current Focus
 
 - 🌱 Full-time web engineer (Nest.js + TypeScript + Vue / React)
 - 📖 Wrapping my head around Rust's ownership model, one project at a time
