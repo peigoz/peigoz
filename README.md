@@ -33,8 +33,7 @@
 <br>
 <br>
 
-
-### Always up for a chat about Agents, Rust or web stuff — feel free to reach out!  
+### 😘 Always up for a chat about Agents, Rust or web stuff — feel free to reach out!  
 
 
 ### 📊 Github Stats
