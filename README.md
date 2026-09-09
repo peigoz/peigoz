@@ -30,16 +30,17 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="./assets/mongodb.svg" align="left" alt="MongoDB" height='42px'/></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="./assets/mysql-original.svg" align="left" alt="MySQL" height='42px'/></a>
 
-### Always up for a chat about Agents, Rust or web stuff — feel free to reach out!
+<br>
+<br>
 
-<br>
-<br>
-  
+
+### Always up for a chat about Agents, Rust or web stuff — feel free to reach out!  
+
+
 ### 📊 Github Stats
 
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=peigoz&show_icons=true&include_all_commits=true)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peigoz&hide=TeX&layout=compact)
-  
+![GitHub Stats Card](https://ghstats.dev/api/card?username=peigoz&border_radius=7.5)  
+![Top Languages](https://ghstats.dev/api/langs?username=peigoz)  
   
 <!--
 **Candane/candane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
