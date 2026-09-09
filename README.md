@@ -1,20 +1,19 @@
-<h1 align="center">Hi 👋, I go by Peigoz, but Zack works too if that's easier</h1>
-<h3 align="center">A software developer from China</h3>
-  
+<h1 align="center">Hi 👋, I go by Zack (@peigoz) — based in Shenzhen, China</h1>
   
 ### 📅 Hobbies
 
-🗣️ Engaging with dev communities (DEV.to & juejin.cn)  
-📺 Binge-watching anime & tech travel vlogs  
-🎮 Casual gaming (Currently hooked on Switch)  
-🎧 Coding with lo-fi beats looping  
+- 🗣️ Hanging out in dev communities (DEV.to & juejin.cn)
+- 📺 Binge-watching anime and tech / travel vlogs
+- 🎮 Casual gaming — currently hooked on my Switch
+- 🎧 Coding with lo-fi beats on repeat
   
-### 👨💻 ​Current Focus
+### 👨 ​Current Focus
 
-🌱 Full-time web engineer (Nest.js + TypeScript + Vue or React)  
-📖 Exploring Rust's ownership model through practice  
-🔭 Mastering CS fundamentals: DSA, networks & OS concepts  
-🚀 Aiming to build robust full-stack systems  
+- 🌱 Full-time web engineer (Nest.js + TypeScript + Vue / React)
+- 📖 Wrapping my head around Rust's ownership model, one project at a time
+- 🔭 Brushing up on CS fundamentals: DSA, networking & OS
+- 🤖 Diving into AI Agents — building and exploring as I go
+- 🚀 Working toward full-stack systems that don't fall over
   
 ### 🔨 Languages and Tools
 
@@ -30,6 +29,8 @@
 <a href="https://nestjs.com/" target="_blank"><img align="left" alt="Nest.js" height ="42px" src="./assets/nest-service.svg"></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="./assets/mongodb.svg" align="left" alt="MongoDB" height='42px'/></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="./assets/mysql-original.svg" align="left" alt="MySQL" height='42px'/></a>
+
+### Always up for a chat about Agents, Rust or web stuff — feel free to reach out!
 
 <br>
 <br>
